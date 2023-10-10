@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "express.js": "^1.0.0",
+    "lodash": "^4.17.21",
+    "node-libcurl": "^3.0.0",
+    "nodemon": "^3.0.1",
+    "request": "^2.88.2",
+    "requests": "^0.3.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "internassignment",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
